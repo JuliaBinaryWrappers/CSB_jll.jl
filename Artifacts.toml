@@ -1,0 +1,52 @@
+[[CSB]]
+arch = "i686"
+git-tree-sha1 = "2a28874f70a24aeb9621e817b287a40c45eb9a1a"
+libc = "glibc"
+os = "linux"
+
+    [[CSB.download]]
+    sha256 = "861bf96ff0e1abe4bec5fb1e1a2fb457b039ea534caae16346b6addb1aab2c65"
+    url = "https://github.com/JuliaBinaryWrappers/CSB_jll.jl/releases/download/CSB-v1.0.0+0/CSB.v1.0.0.i686-linux-gnu.tar.gz"
+[[CSB]]
+arch = "i686"
+git-tree-sha1 = "be2ac9ae52a4356194a8c5a0a68468ae98d2c5d1"
+libc = "musl"
+os = "linux"
+
+    [[CSB.download]]
+    sha256 = "20bf81a72dbb8606e52d4e7260929712013f9b03daf92a1544388fa290a2ac72"
+    url = "https://github.com/JuliaBinaryWrappers/CSB_jll.jl/releases/download/CSB-v1.0.0+0/CSB.v1.0.0.i686-linux-musl.tar.gz"
+[[CSB]]
+arch = "x86_64"
+git-tree-sha1 = "ce6841b364cc291dabeee148cfa96895fae5a8f1"
+os = "macos"
+
+    [[CSB.download]]
+    sha256 = "b7fcf38d2ea43ddd137d0bb3b6f76f5a560d83671d5e0765f096e7306b5675cf"
+    url = "https://github.com/JuliaBinaryWrappers/CSB_jll.jl/releases/download/CSB-v1.0.0+0/CSB.v1.0.0.x86_64-apple-darwin.tar.gz"
+[[CSB]]
+arch = "x86_64"
+git-tree-sha1 = "ef79d7d360d910306f19098f5b23922aebd72ace"
+libc = "glibc"
+os = "linux"
+
+    [[CSB.download]]
+    sha256 = "9fcee389330c75b0b1591e2bcf8a49a29ed4707b5274e1847ede70a50ecc7cd3"
+    url = "https://github.com/JuliaBinaryWrappers/CSB_jll.jl/releases/download/CSB-v1.0.0+0/CSB.v1.0.0.x86_64-linux-gnu.tar.gz"
+[[CSB]]
+arch = "x86_64"
+git-tree-sha1 = "ed4a3fabd3fb8cd09165fe9ed6f7a817b6c432a6"
+libc = "musl"
+os = "linux"
+
+    [[CSB.download]]
+    sha256 = "2369faf5667b7fc2c6ebc437f39dcb4a964c11467122dabb1c3556af6408eef6"
+    url = "https://github.com/JuliaBinaryWrappers/CSB_jll.jl/releases/download/CSB-v1.0.0+0/CSB.v1.0.0.x86_64-linux-musl.tar.gz"
+[[CSB]]
+arch = "x86_64"
+git-tree-sha1 = "efb6b0a02957d970c847cc963a4f9061fa79e67f"
+os = "freebsd"
+
+    [[CSB.download]]
+    sha256 = "f99e9521d16cc5240bc6460182cbfc7bb867a3a1353141d8f2f38072c3b1c3d0"
+    url = "https://github.com/JuliaBinaryWrappers/CSB_jll.jl/releases/download/CSB-v1.0.0+0/CSB.v1.0.0.x86_64-unknown-freebsd.tar.gz"
